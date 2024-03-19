@@ -1,4 +1,4 @@
 
 
-Uploading Simulator Screen Recording - iPhone 15 Pro - 2024-03-18 at 20.18.27.mp4…
+https://github.com/Jaxropix/TriviaPart2/assets/142180880/a1af2a41-d429-4b1c-99d7-11b952d75ead
 
