@@ -29,8 +29,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-https://github.com/Jaxropix/TriviaPart2/assets/142180880/a1af2a41-d429-4b1c-99d7-11b952d75ead
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+
+https://github.com/Jaxropix/TriviaPart2/assets/142180880/b6c2c7ca-c913-4f56-b0d2-09d729b3e656
+
+
+
 
 ## Notes
 
