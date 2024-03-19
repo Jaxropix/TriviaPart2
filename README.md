@@ -1,10 +1,10 @@
-# Project 4 - *Name of App Here*
+# Project 4 - Trivia
 
-Submitted by: **Your Name Here**
+Submitted by: Sue
 
-**Name of your app** is an app that ... [TODO] 
+Trivia is an app that you can answer questions to increase your knowledge
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
